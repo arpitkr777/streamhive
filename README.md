@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h3 align="center">A Zoom Clone</h3>
+  <h3 align="center">A Video Conferencing Application</h3>
 
 </div>
 
